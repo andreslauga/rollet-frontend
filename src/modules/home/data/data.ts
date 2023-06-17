@@ -1,0 +1,193 @@
+const fakeText = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+
+export const posts = [
+    {
+      id: 1,
+      avatarUrl: 'https://example.com/avatar1.jpg',
+      username: 'JohnDoe',
+      postText: fakeText,
+    },
+    {
+      id: 2,
+      avatarUrl: 'https://example.com/avatar2.jpg',
+      username: 'JaneSmith',
+      postText: fakeText,
+    },
+    {
+      id: 3,
+      avatarUrl: 'https://example.com/avatar3.jpg',
+      username: 'BobJohnson',
+      postText: fakeText,
+    },
+    {
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },{
+        id: 1,
+        avatarUrl: 'https://example.com/avatar1.jpg',
+        username: 'JohnDoe',
+        postText: fakeText,
+      },
+      {
+        id: 2,
+        avatarUrl: 'https://example.com/avatar2.jpg',
+        username: 'JaneSmith',
+        postText: fakeText,
+      },
+      {
+        id: 3,
+        avatarUrl: 'https://example.com/avatar3.jpg',
+        username: 'BobJohnson',
+        postText: fakeText,
+      },
+  ];
