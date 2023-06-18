@@ -1,7 +1,6 @@
 import Post from "../../components/Post/Post"
 import { posts } from "../../data/data"
 import { PostsContainer } from "./HomeScreen.styles"
-import { css } from '@emotion/react';
 
 export const HomeScreen = () => {
   return (
