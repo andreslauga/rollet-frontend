@@ -1,4 +1,4 @@
-import { HomeScreen } from './modules/home/screens/HomeScreen/HomeScreen'
+import { HomeScreen } from "modules";
 
 function App() {
   return (

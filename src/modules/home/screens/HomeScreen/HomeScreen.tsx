@@ -1,23 +1,27 @@
-import Post from "../../components/Post/Post"
+
+import { Post } from "modules"
 import { posts } from "../../data/data"
 import { PostsContainer } from "./HomeScreen.styles"
 
-export const HomeScreen = () => {
+const HomeScreen = () => {
   return (
     <PostsContainer>
-      {posts.map((post) => (
+      {posts.map((post, index) => (
         <Post
+          key={post.id}
           styles={{
-            ...(posts.indexOf(post) === 0 && {
-              ml: '5%',
+            ...(index === 0 && {
+              ml: '50px',
             }),
           }}
-          key={post.id}
           avatarUrl={post.avatarUrl}
           username={post.username}
           postText={post.postText}
+          comments={['fffsdfsda', 'fdsafdsfdsaf', 'dSDAdsa']}
         />
       ))}
     </PostsContainer>
   )
 }
+
+export default HomeScreen

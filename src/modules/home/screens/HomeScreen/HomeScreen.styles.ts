@@ -5,5 +5,7 @@ export const PostsContainer = styled(Box)({
     display: 'flex',
     flexDirection: 'row',
     gap: '1rem',
-    overflowX: 'auto'
+    height: '100%',
+    overflowY: 'hidden',
 })
+

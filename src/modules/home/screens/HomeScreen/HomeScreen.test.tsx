@@ -1,7 +1,6 @@
 import { HomeScreen } from "./HomeScreen";
 import { render } from '@testing-library/react';
 
-
 const setup = () => render(<HomeScreen/>);
 
 describe('HomeScreen', () => {
