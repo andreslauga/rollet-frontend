@@ -17,7 +17,7 @@ const HomeScreen = () => {
           avatarUrl={post.avatarUrl}
           username={post.username}
           postText={post.postText}
-          comments={['fffsdfsda', 'fdsafdsfdsaf', 'dSDAdsa']}
+          comments={['fffsdfsda', 'fdsafdsfdsaf', 'dSDAdhvhsa']}
         />
       ))}
     </PostsContainer>
