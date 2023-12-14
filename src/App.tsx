@@ -6,6 +6,4 @@ function App() {
   )
 }
 
-// something happened
-
 export default App
